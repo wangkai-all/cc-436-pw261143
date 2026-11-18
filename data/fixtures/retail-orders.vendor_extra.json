@@ -1,0 +1,153 @@
+{
+  "source": "retail-orders",
+  "variant": "vendor_extra",
+  "records": [
+    {
+      "order_id": "95b4fef8-06fb-47b0-a623-f615b157b066",
+      "customer_id": "CUS-140621",
+      "status": "paid",
+      "amount": 4795.52,
+      "quantity": 5,
+      "currency": "USD",
+      "created_at": "2026-11-10T13:32:35Z",
+      "channel": "app",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "30ebf3f2-ac3b-4cd9-ab63-4d52c28917a3",
+      "customer_id": "CUS-312195",
+      "status": "shipped",
+      "amount": 4463.34,
+      "quantity": 3,
+      "currency": "CNY",
+      "created_at": "2026-11-11T16:36:57Z",
+      "channel": "app",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "dd40f1c3-e99b-45c9-a171-3f74a8d184a4",
+      "customer_id": "CUS-948558",
+      "status": "cancelled",
+      "amount": 2930.39,
+      "quantity": 1,
+      "currency": "CNY",
+      "created_at": "2026-11-12T11:40:55Z",
+      "channel": "store",
+      "coupon_code": "SAVE22",
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "8111d2ae-3699-41be-a081-ab55ca023f4d",
+      "customer_id": "CUS-824638",
+      "status": "paid",
+      "amount": 4012.62,
+      "quantity": 1,
+      "currency": "CNY",
+      "created_at": "2026-11-13T10:02:04Z",
+      "channel": "app",
+      "coupon_code": "SAVE65",
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "fb0b06bf-c164-49a8-ad2a-5bfc03bf9226",
+      "customer_id": "CUS-224090",
+      "status": "delivered",
+      "amount": 1862.15,
+      "quantity": 2,
+      "currency": "CNY",
+      "created_at": "2026-11-14T11:18:50Z",
+      "channel": "web",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "dda78a8d-d5da-43f0-a070-5abe1d35fa42",
+      "customer_id": "CUS-128606",
+      "status": "delivered",
+      "amount": 6290.85,
+      "quantity": 6,
+      "currency": "CNY",
+      "created_at": "2026-11-10T12:05:38Z",
+      "channel": "store",
+      "coupon_code": "SAVE75",
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "e9d8bccd-f50b-4600-a342-cf5d966063af",
+      "customer_id": "CUS-349083",
+      "status": "shipped",
+      "amount": 5793.19,
+      "quantity": 3,
+      "currency": "USD",
+      "created_at": "2026-11-11T16:48:52Z",
+      "channel": "web",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "c70a3636-dd86-4761-ab0d-aeb3bb923f35",
+      "customer_id": "CUS-681713",
+      "status": "paid",
+      "amount": 1356.3,
+      "quantity": 3,
+      "currency": "CNY",
+      "created_at": "2026-11-12T17:12:32Z",
+      "channel": "store",
+      "coupon_code": "SAVE61",
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "e6490683-e35b-4ff7-a7de-596558c2e39c",
+      "customer_id": "CUS-712764",
+      "status": "delivered",
+      "amount": 7533.25,
+      "quantity": 4,
+      "currency": "CNY",
+      "created_at": "2026-11-13T13:50:34Z",
+      "channel": "store",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "35a43cf1-fa10-4217-a7d8-1e63e7aced12",
+      "customer_id": "CUS-579822",
+      "status": "delivered",
+      "amount": 1190.16,
+      "quantity": 6,
+      "currency": "CNY",
+      "created_at": "2026-11-14T12:12:59Z",
+      "channel": "web",
+      "coupon_code": "SAVE90",
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "c16e6e3c-9d3a-4bd3-a103-e974650201a5",
+      "customer_id": "CUS-308969",
+      "status": "created",
+      "amount": 5208.39,
+      "quantity": 2,
+      "currency": "CNY",
+      "created_at": "2026-11-10T16:32:45Z",
+      "channel": "app",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "4de68a09-e16a-442b-a867-6401b284adc9",
+      "customer_id": "CUS-979138",
+      "status": "paid",
+      "amount": 2762.8,
+      "quantity": 2,
+      "currency": "CNY",
+      "created_at": "2026-11-11T11:00:26Z",
+      "channel": "web",
+      "coupon_code": "SAVE57",
+      "loyalty_tier": "gold"
+    }
+  ],
+  "meta": {},
+  "generatedAt": "2026-11-18T15:56:42.382Z",
+  "variantLabel": "供应商附加字段"
+}

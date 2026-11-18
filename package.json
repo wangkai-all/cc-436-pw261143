@@ -1,0 +1,16 @@
+{
+  "name": "contract-sentinel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "数据源契约管理、漂移检测与隔离回放工具",
+  "engines": {
+    "node": ">=22.5"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning src/server.js",
+    "dev": "node --watch --disable-warning=ExperimentalWarning src/server.js",
+    "test": "node --test --disable-warning=ExperimentalWarning",
+    "seed": "node --disable-warning=ExperimentalWarning scripts/reset-seed.js"
+  }
+}

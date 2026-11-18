@@ -1,0 +1,162 @@
+{
+  "source": "payment-settlements",
+  "variant": "vendor_extra_regression",
+  "records": [
+    {
+      "settlement_id": "STL-20261110-9988",
+      "merchant_id": "M55373440",
+      "amount": 431600.44,
+      "fee": 245.74,
+      "fee_rate": 0.0081,
+      "status": "settled",
+      "currency": "CNY",
+      "settled_at": "2026-11-10T11:05:04Z",
+      "reference": null,
+      "bank_trace_id": {
+        "trace": "TRCd8baec583a",
+        "bank": "ICBC"
+      }
+    },
+    {
+      "settlement_id": "STL-20261111-7445",
+      "merchant_id": "M91551277",
+      "amount": 301906.67,
+      "fee": 315.7,
+      "fee_rate": 0.0118,
+      "status": "settled",
+      "currency": "CNY",
+      "settled_at": "2026-11-11T17:07:05Z",
+      "reference": null,
+      "bank_trace_id": {
+        "trace": "TRC6a20282f92",
+        "bank": "ICBC"
+      }
+    },
+    {
+      "settlement_id": "STL-20261112-4410",
+      "merchant_id": "M19644389",
+      "amount": 501589.22,
+      "fee": 592.39,
+      "fee_rate": 0.0475,
+      "status": "failed",
+      "currency": "CNY",
+      "settled_at": "2026-11-12T15:42:43Z",
+      "reference": "REF-6889b868d7",
+      "bank_trace_id": {
+        "trace": "TRCbca9403132",
+        "bank": "ICBC"
+      }
+    },
+    {
+      "settlement_id": "STL-20261113-1676",
+      "merchant_id": "M32235141",
+      "amount": 295892.97,
+      "fee": 192.63,
+      "fee_rate": 0.0281,
+      "status": "pending",
+      "currency": "CNY",
+      "settled_at": null,
+      "reference": null,
+      "bank_trace_id": {
+        "trace": "TRCfdceba7192",
+        "bank": "ICBC"
+      }
+    },
+    {
+      "settlement_id": "STL-20261114-3563",
+      "merchant_id": "M50890280",
+      "amount": 214734.42,
+      "fee": {
+        "amount": 433.14,
+        "currency": "CNY"
+      },
+      "fee_rate": 0.0014,
+      "status": "pending",
+      "currency": "CNY",
+      "settled_at": "2026-11-10T16:55:03Z",
+      "reference": null,
+      "bank_trace_id": {
+        "trace": "TRCbdb6fa44d8",
+        "bank": "ICBC"
+      }
+    },
+    {
+      "settlement_id": "STL-20261110-4622",
+      "merchant_id": "M47602446",
+      "amount": 177361.76,
+      "fee": 717.53,
+      "fee_rate": 0.0259,
+      "status": "failed",
+      "currency": "CNY",
+      "settled_at": "2026-11-11T11:02:00Z",
+      "reference": null,
+      "bank_trace_id": {
+        "trace": "TRC68cb0e478b",
+        "bank": "ICBC"
+      }
+    },
+    {
+      "settlement_id": "STL-20261111-9684",
+      "merchant_id": "M36391242",
+      "amount": 7541.76,
+      "fee": 530.57,
+      "fee_rate": 0.016,
+      "status": "failed",
+      "currency": "CNY",
+      "settled_at": "2026-11-12T15:24:42Z",
+      "reference": "REF-3ae99cd2c2",
+      "bank_trace_id": {
+        "trace": "TRC0c8f43e02a",
+        "bank": "ICBC"
+      }
+    },
+    {
+      "settlement_id": "STL-20261112-7848",
+      "merchant_id": "M54256562",
+      "amount": 438173.16,
+      "fee": 565.78,
+      "fee_rate": 0.0032,
+      "status": "pending",
+      "currency": "CNY",
+      "settled_at": "2026-11-13T16:23:45Z",
+      "reference": "REF-66f151c8be",
+      "bank_trace_id": {
+        "trace": "TRCc8b456e188",
+        "bank": "ICBC"
+      }
+    },
+    {
+      "settlement_id": "STL-20261113-4377",
+      "merchant_id": "M77514793",
+      "amount": 156716.47,
+      "fee": 502.3,
+      "fee_rate": 0.0349,
+      "status": "failed",
+      "currency": "CNY",
+      "settled_at": "2026-11-10T13:24:34Z",
+      "reference": null,
+      "bank_trace_id": {
+        "trace": "TRCdc51374f89",
+        "bank": "ICBC"
+      }
+    },
+    {
+      "settlement_id": "STL-20261114-5442",
+      "merchant_id": "M10695075",
+      "amount": 508878.38,
+      "fee": 106.1,
+      "fee_rate": 0.0269,
+      "status": "failed",
+      "currency": "CNY",
+      "settled_at": "2026-11-11T16:59:27Z",
+      "reference": "REF-9f317aac83",
+      "bank_trace_id": {
+        "trace": "TRC0f8ef34f83",
+        "bank": "ICBC"
+      }
+    }
+  ],
+  "meta": {},
+  "generatedAt": "2026-11-18T15:56:42.410Z",
+  "variantLabel": "附加字段变体升级"
+}

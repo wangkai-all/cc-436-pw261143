@@ -1,0 +1,119 @@
+{
+  "source": "payment-settlements",
+  "variant": "clean",
+  "records": [
+    {
+      "settlement_id": "STL-20261110-5704",
+      "merchant_id": "M94517565",
+      "amount": 392645.5,
+      "fee": 414.45,
+      "fee_rate": 0.006,
+      "status": "settled",
+      "currency": "CNY",
+      "settled_at": "2026-11-10T13:39:27Z",
+      "reference": "REF-90c37d8518"
+    },
+    {
+      "settlement_id": "STL-20261111-6229",
+      "merchant_id": "M45978874",
+      "amount": 48598.97,
+      "fee": 53.4,
+      "fee_rate": 0.0176,
+      "status": "settled",
+      "currency": "CNY",
+      "settled_at": "2026-11-11T10:05:25Z",
+      "reference": null
+    },
+    {
+      "settlement_id": "STL-20261112-4199",
+      "merchant_id": "M56012618",
+      "amount": 31776.51,
+      "fee": 103.71,
+      "fee_rate": 0.0049,
+      "status": "pending",
+      "currency": "CNY",
+      "settled_at": "2026-11-12T11:20:12Z",
+      "reference": "REF-0042c089cc"
+    },
+    {
+      "settlement_id": "STL-20261113-8358",
+      "merchant_id": "M56680867",
+      "amount": 356560.33,
+      "fee": 98.34,
+      "fee_rate": 0.0575,
+      "status": "pending",
+      "currency": "CNY",
+      "settled_at": "2026-11-13T16:21:57Z",
+      "reference": "REF-e332a60ec7"
+    },
+    {
+      "settlement_id": "STL-20261114-5712",
+      "merchant_id": "M63056472",
+      "amount": 348359.89,
+      "fee": 296.56,
+      "fee_rate": 0.0363,
+      "status": "pending",
+      "currency": "CNY",
+      "settled_at": "2026-11-10T17:42:59Z",
+      "reference": null
+    },
+    {
+      "settlement_id": "STL-20261110-1470",
+      "merchant_id": "M79830446",
+      "amount": 197641.3,
+      "fee": 588.52,
+      "fee_rate": 0.0045,
+      "status": "settled",
+      "currency": "CNY",
+      "settled_at": "2026-11-11T12:25:08Z",
+      "reference": "REF-dba45a566e"
+    },
+    {
+      "settlement_id": "STL-20261111-4090",
+      "merchant_id": "M62853422",
+      "amount": 441367.78,
+      "fee": 777.38,
+      "fee_rate": 0.0528,
+      "status": "pending",
+      "currency": "CNY",
+      "settled_at": "2026-11-12T16:47:56Z",
+      "reference": null
+    },
+    {
+      "settlement_id": "STL-20261112-8852",
+      "merchant_id": "M82779345",
+      "amount": 73493.68,
+      "fee": 736.73,
+      "fee_rate": 0.0021,
+      "status": "pending",
+      "currency": "CNY",
+      "settled_at": "2026-11-13T16:35:48Z",
+      "reference": "REF-610fd400e9"
+    },
+    {
+      "settlement_id": "STL-20261113-8505",
+      "merchant_id": "M29342834",
+      "amount": 430469.86,
+      "fee": 783.76,
+      "fee_rate": 0.0197,
+      "status": "pending",
+      "currency": "CNY",
+      "settled_at": null,
+      "reference": "REF-e5fa409066"
+    },
+    {
+      "settlement_id": "STL-20261114-1058",
+      "merchant_id": "M59097498",
+      "amount": 169714.37,
+      "fee": 116.34,
+      "fee_rate": 0.026,
+      "status": "settled",
+      "currency": "CNY",
+      "settled_at": "2026-11-11T17:13:31Z",
+      "reference": "REF-0cae86544d"
+    }
+  ],
+  "meta": {},
+  "generatedAt": "2026-11-18T15:56:42.391Z",
+  "variantLabel": "基线合规"
+}

@@ -1,0 +1,141 @@
+{
+  "source": "retail-orders",
+  "variant": "clean",
+  "records": [
+    {
+      "order_id": "3d7927a3-c555-4ad5-a0be-0f2f104384ff",
+      "customer_id": "CUS-245395",
+      "status": "cancelled",
+      "amount": 6378.05,
+      "quantity": 3,
+      "currency": "CNY",
+      "created_at": "2026-11-10T13:58:02Z",
+      "channel": "store",
+      "coupon_code": "SAVE62"
+    },
+    {
+      "order_id": "0cbc126a-73f1-4f47-a8e3-bec33f69a33e",
+      "customer_id": "CUS-463351",
+      "status": "delivered",
+      "amount": 4079.07,
+      "quantity": 5,
+      "currency": "CNY",
+      "created_at": "2026-11-11T15:48:19Z",
+      "channel": "store",
+      "coupon_code": "SAVE47"
+    },
+    {
+      "order_id": "32dddad3-b4be-48b5-abaf-5faf4abcb075",
+      "customer_id": "CUS-180315",
+      "status": "created",
+      "amount": 1184.83,
+      "quantity": 6,
+      "currency": "CNY",
+      "created_at": "2026-11-12T16:25:48Z",
+      "channel": "app",
+      "coupon_code": null
+    },
+    {
+      "order_id": "055d5032-3179-4fe7-a671-7dd87c0ba4bd",
+      "customer_id": "CUS-405857",
+      "status": "paid",
+      "amount": 477.81,
+      "quantity": 3,
+      "currency": "CNY",
+      "created_at": "2026-11-13T12:23:56Z",
+      "channel": "store",
+      "coupon_code": null
+    },
+    {
+      "order_id": "a813150c-6e1b-448c-abe6-8bb3a282749c",
+      "customer_id": "CUS-359024",
+      "status": "paid",
+      "amount": 35.14,
+      "quantity": 6,
+      "currency": "CNY",
+      "created_at": "2026-11-14T17:48:56Z",
+      "channel": "app",
+      "coupon_code": null
+    },
+    {
+      "order_id": "66753569-5f7c-444e-aba4-aeee755dde57",
+      "customer_id": "CUS-211647",
+      "status": "paid",
+      "amount": 8674.8,
+      "quantity": 5,
+      "currency": "CNY",
+      "created_at": "2026-11-10T17:22:17Z",
+      "channel": "web",
+      "coupon_code": null
+    },
+    {
+      "order_id": "4c7e58a5-7ff3-494a-af00-4100753a165f",
+      "customer_id": "CUS-772834",
+      "status": "paid",
+      "amount": 2948.1,
+      "quantity": 5,
+      "currency": "USD",
+      "created_at": "2026-11-11T11:24:59Z",
+      "channel": "app",
+      "coupon_code": "SAVE67"
+    },
+    {
+      "order_id": "d398c3fb-6812-4b23-a1aa-1a9674dc2562",
+      "customer_id": "CUS-976818",
+      "status": "shipped",
+      "amount": 8502.45,
+      "quantity": 2,
+      "currency": "CNY",
+      "created_at": "2026-11-12T13:02:10Z",
+      "channel": "app",
+      "coupon_code": "SAVE23"
+    },
+    {
+      "order_id": "7c497d51-569a-414c-a28b-3d98a7808a05",
+      "customer_id": "CUS-852025",
+      "status": "cancelled",
+      "amount": 1800.38,
+      "quantity": 2,
+      "currency": "CNY",
+      "created_at": "2026-11-13T10:04:46Z",
+      "channel": "store",
+      "coupon_code": "SAVE85"
+    },
+    {
+      "order_id": "5f625fd8-2661-499f-a2e9-a9f95be6daa4",
+      "customer_id": "CUS-681876",
+      "status": "paid",
+      "amount": 1681.12,
+      "quantity": 4,
+      "currency": "CNY",
+      "created_at": "2026-11-14T09:31:05Z",
+      "channel": "app",
+      "coupon_code": "SAVE47"
+    },
+    {
+      "order_id": "6a1f246e-94dc-48d4-a065-1512feaca42b",
+      "customer_id": "CUS-539626",
+      "status": "shipped",
+      "amount": 5282.1,
+      "quantity": 2,
+      "currency": "CNY",
+      "created_at": "2026-11-10T10:53:16Z",
+      "channel": "web",
+      "coupon_code": "SAVE14"
+    },
+    {
+      "order_id": "c7be21cc-f3d3-4a98-a0b9-1c3d53741580",
+      "customer_id": "CUS-709623",
+      "status": "delivered",
+      "amount": 1053.39,
+      "quantity": 5,
+      "currency": "CNY",
+      "created_at": "2026-11-11T08:37:49Z",
+      "channel": "store",
+      "coupon_code": "SAVE15"
+    }
+  ],
+  "meta": {},
+  "generatedAt": "2026-11-18T15:56:42.357Z",
+  "variantLabel": "基线合规"
+}

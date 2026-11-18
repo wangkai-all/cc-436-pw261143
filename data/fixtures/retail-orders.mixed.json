@@ -1,0 +1,158 @@
+{
+  "source": "retail-orders",
+  "variant": "mixed",
+  "records": [
+    {
+      "order_id": "8e973c56-5354-4997-af1f-d3b0fe2b94e4",
+      "customer_id": "CUS-378742",
+      "status": "paid",
+      "amount": 1536.02,
+      "quantity": 5,
+      "currency": "CNY",
+      "created_at": "2026-11-10T11:04:06Z",
+      "channel": "web",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "3d5e1d20-01fa-48ac-aa9e-3c101f896c8f",
+      "customer_id": "CUS-241673",
+      "status": "cancelled",
+      "amount": 5846.99,
+      "quantity": 3,
+      "currency": "CNY",
+      "created_at": "2026-11-11T16:18:58Z",
+      "channel": "web",
+      "coupon_code": "SAVE56",
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "d63a7960-2129-4b04-a5d4-5752947563fa",
+      "customer_id": "CUS-886793",
+      "status": "returned",
+      "amount": 1269.87,
+      "quantity": 6,
+      "currency": "USD",
+      "created_at": "2026-11-12T13:52:27Z",
+      "channel": "store",
+      "coupon_code": "SAVE46",
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "d605d348-91a7-4f88-a0a9-dd7541e0a016",
+      "customer_id": "CUS-226667",
+      "status": "shipped",
+      "amount": 4365.44,
+      "quantity": 3,
+      "currency": "CNY",
+      "created_at": "2026-11-13T16:23:33Z",
+      "channel": "store",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "603d5491-d07f-4f85-a46f-2e052aae69f3",
+      "customer_id": "CUS-896022",
+      "status": "paid",
+      "amount": 462.02,
+      "quantity": 1,
+      "currency": "CNY",
+      "created_at": "2026-11-14T17:33:00Z",
+      "channel": "store",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "c4b1e970-366a-4fca-a15b-51018cf005fa",
+      "status": "delivered",
+      "amount": 2339.06,
+      "quantity": 5,
+      "currency": "CNY",
+      "created_at": "2026-11-10T08:38:09Z",
+      "channel": "web",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "58652f0f-2daf-4309-a0bb-4b3c34cc423c",
+      "customer_id": "CUS-584318",
+      "status": "created",
+      "amount": 7460.86,
+      "quantity": 3,
+      "currency": "CNY",
+      "created_at": "2026-11-11T12:24:06Z",
+      "channel": "app",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "7aabbd85-ee84-44fe-ad8b-4469dbb1b3e1",
+      "customer_id": "CUS-877390",
+      "status": "cancelled",
+      "amount": 3949.92,
+      "quantity": 2,
+      "currency": "USD",
+      "created_at": "2026-11-12T16:15:38Z",
+      "channel": "app",
+      "coupon_code": "SAVE25",
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "b8e49968-1b97-443b-a8ef-0d5d6a0ed507",
+      "customer_id": "CUS-650466",
+      "status": "paid",
+      "amount": 3320.24,
+      "quantity": 4,
+      "currency": "CNY",
+      "created_at": "2026-11-13T17:10:53Z",
+      "channel": "web",
+      "coupon_code": "SAVE36",
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "13d9d68f-695e-48bb-ab87-104e4c685445",
+      "customer_id": "CUS-210627",
+      "status": "created",
+      "amount": 2606.2,
+      "quantity": 2,
+      "currency": "CNY",
+      "created_at": "2026-11-14T12:39:35Z",
+      "channel": "web",
+      "coupon_code": "SAVE15",
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "5a3876ae-e6e8-4a28-a024-a0b1a259fa8c",
+      "customer_id": "CUS-671127",
+      "status": "delivered",
+      "amount": 5944.16,
+      "quantity": "many",
+      "currency": "USD",
+      "created_at": "2026-11-10T13:01:43Z",
+      "channel": "web",
+      "coupon_code": null,
+      "loyalty_tier": "gold"
+    },
+    {
+      "order_id": "4079a5e4-d941-45f3-a1fe-b7df4b058a17",
+      "customer_id": "CUS-817832",
+      "status": "shipped",
+      "amount": 7816.43,
+      "quantity": 1,
+      "currency": "CNY",
+      "created_at": "2026-11-11T12:57:30Z",
+      "channel": "store",
+      "coupon_code": "SAVE46",
+      "loyalty_tier": "gold"
+    }
+  ],
+  "meta": {
+    "declaredEnums": {
+      "status": [
+        "returned"
+      ]
+    }
+  },
+  "generatedAt": "2026-11-18T15:56:42.376Z",
+  "variantLabel": "混合漂移"
+}

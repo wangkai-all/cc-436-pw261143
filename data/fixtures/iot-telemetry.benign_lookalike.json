@@ -1,0 +1,70 @@
+{
+  "source": "iot-telemetry",
+  "variant": "benign_lookalike",
+  "records": [
+    {
+      "device_id": "DEV-AB4627",
+      "ts": "2026-11-10T11:33:00.000Z",
+      "temperature": "15.8",
+      "humidity": 42.6,
+      "firmware": "1.5.0"
+    },
+    {
+      "device_id": "DEV-CD4262",
+      "ts": "2026-11-11T16:30:14.000Z",
+      "temperature": 34.1,
+      "humidity": 39.7,
+      "battery": 75.8,
+      "firmware": "1.5.0"
+    },
+    {
+      "device_id": "DEV-CD3571",
+      "ts": "2026-11-12T09:01:25.000Z",
+      "temperature": "30.6",
+      "humidity": 10.9,
+      "battery": 10.4,
+      "firmware": "1.4.0"
+    },
+    {
+      "device_id": "DEV-EF7100",
+      "ts": "2026-11-10T12:24:25.000Z",
+      "temperature": 38,
+      "humidity": 52.3,
+      "firmware": "1.5.0"
+    },
+    {
+      "device_id": "DEV-EF7253",
+      "ts": "2026-11-11T11:34:42.000Z",
+      "temperature": "15.6",
+      "humidity": 40.9,
+      "battery": 24.8,
+      "firmware": "1.5.0"
+    },
+    {
+      "device_id": "DEV-CD4373",
+      "ts": "2026-11-12T11:41:17.000Z",
+      "temperature": 22.6,
+      "humidity": 91.4,
+      "battery": 93.1,
+      "firmware": "1.5.0"
+    },
+    {
+      "device_id": "DEV-AB8858",
+      "ts": "2026-11-10T08:32:59.000Z",
+      "temperature": "28.3",
+      "humidity": 42.6,
+      "firmware": "1.5.0"
+    },
+    {
+      "device_id": "DEV-EF1480",
+      "ts": "2026-11-11T08:20:23.000Z",
+      "temperature": 22.6,
+      "humidity": 16,
+      "battery": 81.2,
+      "firmware": "1.4.0"
+    }
+  ],
+  "meta": {},
+  "generatedAt": "2026-11-18T15:56:42.425Z",
+  "variantLabel": "疑似但合规"
+}
